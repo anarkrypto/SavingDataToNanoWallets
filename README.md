@@ -1,2 +1,2 @@
-# SavingDataToNanoWallets
-Convert data to Nano Wallet  format and vice-versa
+# NanoWalletToText
+Convert Nano Wallet to UTF8 text and vice-versa
